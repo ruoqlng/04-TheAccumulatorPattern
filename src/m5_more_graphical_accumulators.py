@@ -394,10 +394,6 @@ def draw_lines_from_rectangles(rectangle1, rectangle2, n, window):
         y1 = y1 + radius2
         x1 = x1 - radius1
 
-
-
-    print(radius1, radius2, x, y)
-
     window.render()
     # ------------------------------------------------------------------
     # DONE: 5. Implement and test this function.
