@@ -4,6 +4,7 @@ This module demonstrates the ACCUMULATOR pattern in three classic forms:
    COUNTING:      count = count + 1
    IN GRAPHICS:   x = x + pixels
 
+########################################################################
 Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
          Mark Hays and their colleagues.
 """
@@ -11,7 +12,6 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
 # Students: Read and run this program.  There is nothing else
 #           for you to do in here.  Just use it as an example.
 #           Before you leave this example:
-########################################################################
 #   *** MAKE SURE YOU UNDERSTAND THE 3   ACCUMULATOR   PATTERNS      ***
 #   *** shown in this module:  SUMMING, COUNTING, and IN GRAPHICS    ***
 ########################################################################
